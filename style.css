@@ -1,0 +1,40 @@
+.login {
+    
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+.bg
+{
+    color: black;
+    background-image: url('image/blue.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+    height: 100vh;
+}
+
+form
+{
+    padding: 15px 30px;
+    background-color:   whitesmoke;
+    border-radius: 15px ;  
+}
+body
+{
+    margin: 0;
+}
+
+h1
+{
+    text-align: center;
+}
+
+input
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
